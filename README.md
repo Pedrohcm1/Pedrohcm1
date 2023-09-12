@@ -3,7 +3,7 @@ Olá, eu sou o Pedro!
 <div style="display: inline_block"><br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrohcm1&show=reviews,discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=merko&rank_icon=github) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohcm1&theme=merko)](https://github.com/Pedrohcm1/github-readme-stats)
 
   <img alt="" align="center" height="30" width="40" src="https://github.com/Pedrohcm1/Pedrohcm1/blob/main/assets/icons/angularjs-original.svg" />
