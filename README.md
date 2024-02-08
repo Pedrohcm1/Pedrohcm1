@@ -1,4 +1,5 @@
 Olá, eu sou o Pedro, entusiasta de tecnologia, encantado por plantas e trilhando meu processo de desenvolvimento como desenvolvedor!!!
+Tenho uma preferencia pelo setor de desenvolvimento na área de Back-End, mais tenho familiaridade com toda a área de Front-End e gestão de dados.
 
 
 <div style="display: inline_block"><br>
