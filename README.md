@@ -1,6 +1,8 @@
-Olá, eu sou o Pedro!
+Olá, eu sou o Pedro, entusiasta de tecnologia, encantado por plantas e trilhando meu processo de desenvolvimento como desenvolvedor!!!
+
 
 <div style="display: inline_block"><br>
+
 
 
 
